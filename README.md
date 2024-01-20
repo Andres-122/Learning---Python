@@ -3,12 +3,12 @@ Repositorio de Scripts en Lenguaje de programación Python
 proceso de staging:
 existen tres comandos, por consola:
 
-1. git add - enviar paquete a staging o a colab
-2. git add.
-3- git add --all
-4. git add
+git add - enviar paquete a staging o a colab
+git add.
+git add --all
+git add
 FILE_NAME.ext
-5. git add FOLDER_NAME
+git add FOLDER_NAME
 
 Anexar mensaje, que contiene el paquete
 git commint -m "mensaje " -m = message 

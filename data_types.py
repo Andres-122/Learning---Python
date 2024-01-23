@@ -44,3 +44,5 @@ print("colors", type(frutas))
 detodito=['Andres',20,1520,'Chambu',1.70]
 print(detodito)
 print("detodito",type(detodito[1]))
+
+

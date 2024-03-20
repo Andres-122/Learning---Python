@@ -117,7 +117,7 @@ cur.execute(countries_table)
 #Save changes in database => Push to database
 con.commit()
 
-print("::: Database market has been created :::")
+print(" ::: Database market has been created ::: ")
 
 #Close connection
 #con.close()
